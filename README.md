@@ -26,5 +26,5 @@ Each Key-Card is assigned to a user. Using the Key-Cards ID, Rasboxfy is able to
 
 -> -> ```python3 main.py``` (Make sure you are in the right folder)
 
--> The first time you run this code, you should get a Spotify-Link you're ment to copy and paste into your browser to authenticate the usage of your Spotify Data
+-> The first time you run this code, you should get a Spotify-Link you're ment to copy and paste into your browser to authenticate the usage of your Spotify Data. After, everthing is ready for use!!! Just continue by holding a RFID-Card you added before close to the RFID-Scanner or relaunch ```main.py```
 
